@@ -1,0 +1,35 @@
+@import url("style/header.css");
+@import url("style/banner.css");
+@import url("style/carrossel.css");
+@import url("style/topicos.css");
+@import url("style/cadastro.css");
+@import url("style/rodape.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Fahkwang:wght@200;300;400;500;600;700&family=Petit+Formal+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+:root{
+    --cor-fundo: #EBECEE;
+    --cor-branco:  #FFFFFF; 
+    --cor-laranja: #EB9B00;
+    --cor-azul: #002F52;
+    --cor-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    --cor-preto: #000000;
+    --cor-cinza: #858585;
+
+
+}
+
+body{
+    font-family:  "Fahkwang", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    background-color:var(--cor-fundo) ;
+}
+
+@media screen and (min-width:1728px){
+body{
+    background-image: url(../img/body.png.png);
+    width: 100%;
+}
+}
