@@ -8,7 +8,7 @@
 
 ## [Access website]()
 
-[![Z9ELyC.Design-sem-nome-3.png](https://i.im.ge/2024/04/27/Z9ELyC.Design-sem-nome-3.png)](https://im.ge/i/Design-sem-nome-3.Z9ELyC)
+![imagem do site](https://im.ge/i/Design-sem-nome-3.Z9ELyC)
 
 #   Thanks
  - [Mônica Hillman](https://www.instagram.com/monihillman?igsh=dzdicXowbzQ0Z2xy)
