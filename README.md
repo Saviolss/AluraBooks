@@ -13,3 +13,6 @@
  - [Mônica Hillman](https://www.instagram.com/monihillman?igsh=dzdicXowbzQ0Z2xy)
  
 - [Alura](https://www.instagram.com/aluraonline?igsh=MWVzZjVsZXZteG16aA==)
+
+  ## 📃Licenee
+  This project is under the MIT License. See the file [LICENSE](https://opensource.org/license/mit) for more details.
