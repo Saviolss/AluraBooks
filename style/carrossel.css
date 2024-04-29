@@ -88,12 +88,13 @@
     text-align: center;
 }
 
-.swiper-wrapper{
-    overflow: auto;
-}
 
 @media screen and (min-width:1024px){
 
+.swiper-wrapper{
+    overflow: auto;
+}
+    
 .carrossel__titulo{
     padding: 1.3em;
     font-size: 26px;
@@ -115,6 +116,11 @@
 }
 
 @media screen and (min-width:1728px){
+
+.swiper-wrapper{
+    overflow: auto;
+}
+    
 .carrossel__titulo,.carrossel__titulo-02{
     font-size: 30px;
 }
